@@ -1,3 +1,6 @@
+Uma cópia para preservação deste repositório, do estado em 8 de abril de 2026 pode ser acessada com [![DOI](https://zenodo.org/badge/212618662.svg)](https://doi.org/10.5281/zenodo.19474436) e as páginas para constulta estão disponíveis em https://abav.lugaralgum.com/material-aulas/
+
+Futuramente este repositório será arquivado, e o desenvolvimento do material deverá acontecer em um novo repositório.
 
 ## Conteúdos didáticos
 
@@ -7,6 +10,7 @@
 > O antigo material para Processing modo Python (2019—2022) ainda está na pasta [Processing-Python](Processing-Python/).
 
 ### Contexto
+
 > Este material didático foi criado inicialmente para ensinar/aprender a programar usando **Processing modo Python**, uma ferramenta livre de programação com a sintaxe de Python e que inclui o vocabulário, os recursos de desenho e manipulação de imagens do Processing. Atualmente há outras possibilidades de combinar Python e Processing, e outras ferramentas que combinam Python e desenho ou modelos tridimensionas, veja abaixo com obter algumas delas:
 > - Biblioteca [py5](https://py5coding.org), recomendada para a versão mais recente deste material, siga as [**instruções de instalação** usando Thonny IDE + plugin](https://abav.lugaralgum.com/como-instalar-py5/).
 > - [pyp5js](https://github.com/berinhard/pyp5js), combina pyodide e p5js, experimente uma [**variante do editor online**](https://abav.lugaralgum.com/pyp5js/py5mode/) do projeto.
