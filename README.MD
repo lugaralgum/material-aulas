@@ -1,6 +1,10 @@
-Uma cópia para preservação deste repositório, do estado em 8 de abril de 2026 pode ser acessada com [![DOI](https://zenodo.org/badge/212618662.svg)](https://doi.org/10.5281/zenodo.19474436) e as páginas para constulta estão disponíveis em https://abav.lugaralgum.com/material-aulas/
+## Atenção: arquivamento e mudança deste repositório
 
-Futuramente este repositório será arquivado, e o desenvolvimento do material deverá acontecer em um novo repositório.
+Este repositório será arquivado e o desenvolvimento do material passará a acontecer em https://codeberg.org/villares/material-aulas.
+
+As páginas coorentes para constulta devem ficar disponíveis em https://abav.lugaralgum.com/material-aulas/
+
+Uma cópia para preservação do estado do repositório em 8 de abril de 2026 pode ser encontrada em [![DOI](https://zenodo.org/badge/212618662.svg) 10.5281/zenodo.19474436](https://doi.org/10.5281/zenodo.19474436). 
 
 ## Conteúdos didáticos
 
@@ -30,8 +34,7 @@ Se você quer apoiar a continuidade deste projeto, que produz material didático
 - Desenhos diários: [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)
 - [Paper objects with Processing and Python](https://github.com/villares/Paper-objects-with-Processing-and-Python)
 - [Quebra-cabeças de Parsons com resultado visual](https://abav.lugaralgum.com/faded-parsons-visual/)
-- [Trabalho em andamento] [NumPy para leigos](https://hackmd.io/@villares/numpy-para-leigos)
-- Outras opções de desenho com Python: [Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming) 
+- Outras opções de desenho e modelagem 3d com Python: [Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming) 
 - [Outros recursos e livros de Processing e Python](sobre/outros_recursos.md)
 
 ---
