@@ -2,9 +2,9 @@
 
 Este repositório será arquivado e o desenvolvimento do material passará a acontecer em https://codeberg.org/villares/material-aulas.
 
-As páginas coorentes para constulta devem ficar disponíveis em https://abav.lugaralgum.com/material-aulas/
+As páginas atuais (correntes) para constulta devem ficar disponíveis em https://abav.lugaralgum.com/material-aulas/
 
-Uma cópia para preservação do estado do repositório em 8 de abril de 2026 pode ser encontrada em [![DOI](https://zenodo.org/badge/212618662.svg) 10.5281/zenodo.19474436](https://doi.org/10.5281/zenodo.19474436). 
+Uma cópia para preservação do estado do repositório em 8 de abril de 2026 pode ser encontrada em [![DOI](https://zenodo.org/badge/212618662.svg)](https://doi.org/10.5281/zenodo.19474436). 
 
 ## Conteúdos didáticos
 
