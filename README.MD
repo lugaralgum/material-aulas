@@ -1,10 +1,21 @@
+
+
 ## Atenção: arquivamento e mudança deste repositório
 
 Este repositório será arquivado e o desenvolvimento do material passará a acontecer em https://codeberg.org/villares/material-aulas.
 
-As páginas atuais (correntes) para constulta devem ficar disponíveis em https://abav.lugaralgum.com/material-aulas/
+As páginas atuais (correntes) para constulta devem ficar disponíveis em https://abav.lugaralgum.com/material-aulas/.
 
 Uma cópia para preservação do estado do repositório em 8 de abril de 2026 pode ser encontrada em [![DOI](https://zenodo.org/badge/212618662.svg)](https://doi.org/10.5281/zenodo.19474436). 
+
+### *Notice: moving this repository out*
+
+*This repo will be archived and the open educational materials will be developed at https://codeberg.org/villares/material-aulas.*
+
+*The current pages should remain available at https://abav.lugaralgum.com/material-aulas/.*
+
+A preservation copy of the repo as it was in April 8th 2026 can be found at [![DOI](https://zenodo.org/badge/212618662.svg)](https://doi.org/10.5281/zenodo.19474436). 
+
 
 ## Conteúdos didáticos
 
@@ -23,7 +34,7 @@ Uma cópia para preservação do estado do repositório em 8 de abril de 2026 po
 
 ### Como colaborar e contribuir?
 
-Este material didático pode ser modificado e usado para dar aulas. Leia as [instruções para colaborar com este repositório](/sobre/como-contribuir.md) e abra [*issues*](https://github.com/villares/material-aulas/issues) apontando problemas, sugerindo assuntos e melhorias, ou contribua com *Pull Requests* para o repositório.
+Este material didático pode ser modificado e usado para dar aulas. Leia as [instruções para colaborar com este projeto](https://abav.lugaralgum.com/material-aulas/sobre/como-contribuir.html) e abra [*issues*](https://codeberg.org/villares/material-aulas/issues) apontando problemas, sugerindo assuntos e melhorias, ou contribua com *Pull Requests* para o repositório.
 
 Se você quer apoiar a continuidade deste projeto, que produz material didático aberto, faça um PIX `46c37783-5edb-4f1c-b3a8-1309db11488c`, [doação de qualquer valor aqui](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724) ou também com 
 [Wise](https://wise.com/pay/me/alexandrev562)! 
