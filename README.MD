@@ -6,7 +6,7 @@ Este repositório será arquivado e o desenvolvimento do material passará a aco
 
 As páginas atuais (correntes) para constulta devem ficar disponíveis em https://abav.lugaralgum.com/material-aulas/.
 
-Uma cópia para preservação do estado do repositório em 8 de abril de 2026 pode ser encontrada em [![DOI](https://zenodo.org/badge/212618662.svg)](https://doi.org/10.5281/zenodo.19474436). 
+Uma cópia para preservação do estado do repositório em 8 de abril de 2026 pode ser encontrada em [![doi.org/10.5281/zenodo.19474436](https://zenodo.org/badge/212618662.svg)](https://doi.org/10.5281/zenodo.19474436). 
 
 ### *Notice: moving this repository out*
 
@@ -14,7 +14,7 @@ Uma cópia para preservação do estado do repositório em 8 de abril de 2026 po
 
 *The current pages should remain available at https://abav.lugaralgum.com/material-aulas/.*
 
-A preservation copy of the repo as it was in April 8th 2026 can be found at [![DOI](https://zenodo.org/badge/212618662.svg)](https://doi.org/10.5281/zenodo.19474436). 
+A preservation copy of the repo as it was in April 8th 2026 can be found at [![doi.org/10.5281/zenodo.19474436](https://zenodo.org/badge/212618662.svg)](https://doi.org/10.5281/zenodo.19474436). 
 
 
 ## Conteúdos didáticos
