@@ -2,7 +2,7 @@
 
 ## Atenção: arquivamento e mudança deste repositório
 
-Este repositório será arquivado e o desenvolvimento do material passará a acontecer em https://codeberg.org/villares/material-aulas.
+Este repositório será arquivado e o desenvolvimento do material passará a acontecer em https://codeberg.org/lugaralgum/material-aulas.
 
 As páginas atuais (correntes) para constulta devem ficar disponíveis em https://abav.lugaralgum.com/material-aulas/.
 
@@ -10,7 +10,7 @@ Uma cópia para preservação do estado do repositório em 8 de abril de 2026 po
 
 ### *Notice: moving this repository out*
 
-*This repo will be archived and the open educational materials will be developed at https://codeberg.org/villares/material-aulas.*
+*This repo will be archived and the open educational materials will be developed at https://codeberg.org/lugarlgum/material-aulas.*
 
 *The current pages should remain available at https://abav.lugaralgum.com/material-aulas/.*
 
@@ -29,7 +29,7 @@ A preservation copy of the repo as it was in April 8th 2026 can be found at [![d
 > Este material didático foi criado inicialmente para ensinar/aprender a programar usando **Processing modo Python**, uma ferramenta livre de programação com a sintaxe de Python e que inclui o vocabulário, os recursos de desenho e manipulação de imagens do Processing. Atualmente há outras possibilidades de combinar Python e Processing, e outras ferramentas que combinam Python e desenho ou modelos tridimensionas, veja abaixo com obter algumas delas:
 > - Biblioteca [py5](https://py5coding.org), recomendada para a versão mais recente deste material, siga as [**instruções de instalação** usando Thonny IDE + plugin](https://abav.lugaralgum.com/como-instalar-py5/).
 > - [pyp5js](https://github.com/berinhard/pyp5js), combina pyodide e p5js, experimente uma [**variante do editor online**](https://abav.lugaralgum.com/pyp5js/py5mode/) do projeto.
-> - Outras opções no quadro [Processing + Python tools table](https://github.com/villares/Resources-for-teaching-programming#processing--python-tools-table)
+> - Outras opções no quadro [Processing + Python tools table](https://codeberg.org/villares/Resources-for-teaching-programming#processing--python-tools-table)
 > - Outras ferramentas de [desenho ou modelagem tridimensional com Python](outras-ferramentas/)
 
 ### Como colaborar e contribuir?
@@ -43,9 +43,9 @@ Se você quer apoiar a continuidade deste projeto, que produz material didático
 
 - Fazines e pôsters [**`desenho()`**](https://desenho.lugaralgum.com) `"""Para desenhar com código, para desenhar junto, com o computador e com outras pessoas!"""`
 - Desenhos diários: [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)
-- [Paper objects with Processing and Python](https://github.com/villares/Paper-objects-with-Processing-and-Python)
-- [Quebra-cabeças de Parsons com resultado visual](https://abav.lugaralgum.com/faded-parsons-visual/)
-- Outras opções de desenho e modelagem 3d com Python: [Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming) 
+- [Paper objects with Processing and Python](https://codeberg.org/villares/Paper-objects-with-Processing-and-Python)
+- [Quebra-cabeças de Parsons com resultado visual](https://abav.lugaralgum.com/python-parsons-visual/)
+- Outras opções de desenho e modelagem 3d com Python: [Resources for teaching programming for artists, designers and architects](https://codeberg.org/villares/Resources-for-teaching-programming) 
 - [Outros recursos e livros de Processing e Python](sobre/outros_recursos.md)
 
 ---
