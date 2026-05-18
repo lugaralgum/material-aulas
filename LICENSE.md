@@ -1,4 +1,5 @@
 "The code examples made for material-aulas":
+
     Copyright (C) 2019-2026  Alexandre B A Villares
     GPL v.3.0 or later.
 
@@ -16,6 +17,7 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 "The text and images for material-aulas":
+
     Copyright (C) 2019-2026  Alexandre B A Villares
     CC Attribution-ShareAlike 4.0 International.
     <https://creativecommons.org/licenses/by-sa/4.0/>
